@@ -1,3 +1,6 @@
 formulaire
 ***********************
 name [*************]
+pernom
+email
+buton
